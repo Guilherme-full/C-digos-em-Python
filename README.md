@@ -1,8 +1,8 @@
 # Códigos em Python
 
-## Download 
+## Clonar Repositório
 ```
-gh repo clone Guilherme-full/C-digos-em-Python
+git clone https://github.com/Guilherme-full/C-digos-em-Python.git
 ```
 
 |          | Linux | macOS | Windows |
